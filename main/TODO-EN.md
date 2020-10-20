@@ -1,6 +1,3 @@
-# Subject 2 (2.5 pts)
-# TOPIC: Javascript
-
 # Given the function  `removeOrderItem(orderInfo, position)` where:
 - `orderInfo` is an object with the properties total and items
 - `position` is an integer that determines one element in items
