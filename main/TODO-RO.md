@@ -1,6 +1,3 @@
-# Subiect 2 (2.5 pts)
-# Tematica: Javascript
-
 # Avand urmatoarea functie  `removeOrderItem(orderInfo, position)` unde:
 - `orderInfo` este un obiect cu proprietatile total si items
 - `position` este un numar intreg ce determina un element din items
